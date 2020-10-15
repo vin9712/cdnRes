@@ -7,13 +7,13 @@
 
 PicGo 设置
 
-![image-20200930111728640](https://raw.githubusercontent.com/vin9712/picBed/image/imgs/20200930112353.png)
+![image-20200930111728640](https://raw.githubusercontent.com/vin9712/cdnRes/cdn/blog/hexo/img/2020/20200930112353.png)
 
 GitHub 图床设置
 
 > 注意：设置自定义域名：**<仓库名>@<分支名>**
 
-![image-20200930111526997](https://raw.githubusercontent.com/vin9712/picBed/image/imgs/20200930114255.png)
+![image-20200930111526997](https://raw.githubusercontent.com/vin9712/cdnRes/cdn/blog/hexo/img/2020/20200930114255.png)
 
 
 #### 常见问题
