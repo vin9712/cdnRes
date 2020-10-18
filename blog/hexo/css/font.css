@@ -7,7 +7,17 @@
     font-display: swap;
 }
 
-/*================================== OPPO Sans SC ==================================*/
+/*====================================== Code Font =======================================*/
+@font-face {
+  font-family: "Code Font";
+  src: local('Consolas');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+00-7F;
+}
+
+/*===================================== OPPO Sans SC =====================================*/
 @font-face {
     font-family: 'OPPO Sans-M SC';
     src: url('https://cdn.jsdelivr.net/gh/vin9712/cdnRes@cdn/blog/hexo/fonts/OPPOSans/OPPOSansSC.woff2') format('woff2');
